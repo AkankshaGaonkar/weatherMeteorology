@@ -1,0 +1,22 @@
+{
+  "name": "weathermeteorology",
+  "version": "1.0.0",
+  "description": "Weather Forecast Project Using API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkankshaGaonkar/weatherMeteorology.git"
+  },
+  "author": "Akanksha Gaonkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkankshaGaonkar/weatherMeteorology/issues"
+  },
+  "homepage": "https://github.com/AkankshaGaonkar/weatherMeteorology#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
